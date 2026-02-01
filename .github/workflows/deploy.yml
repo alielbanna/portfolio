@@ -21,7 +21,9 @@ jobs:
         with:
           flutter-version: '3.22.0'
           channel: stable
-          cache: true
+
+      - name: Check Flutter & Dart versions
+        run: flutter --version
 
       - name: Install dependencies
         run: flutter pub get
