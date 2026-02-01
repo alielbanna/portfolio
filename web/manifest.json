@@ -1,0 +1,23 @@
+{
+  "name": "Ali Ramadan El Banna - Flutter Developer Portfolio",
+  "short_name": "Ali Portfolio",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0A0E27",
+  "theme_color": "#00D9FF",
+  "description": "Flutter Developer with 3+ years experience. Specialized in cross-platform mobile development.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "icons/Icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/Icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
