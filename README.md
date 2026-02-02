@@ -176,7 +176,7 @@ This project is open source and available under the MIT License.
 
 - **Email**: alielbana6662@gmail.com
 - **Phone**: +20 112 993 7838
-- **Location**: Quwaysina, El Menoufia, Egypt
+- **Location**: El Menoufia, Egypt
 
 ## 🙏 Acknowledgments
 
