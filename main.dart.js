@@ -61637,7 +61637,7 @@ return A.J($async$pM,r)},
 pt(){var s=0,r=A.K(t.H),q=this
 var $async$pt=A.L(function(a,b){if(a===1)return A.H(b,r)
 for(;;)switch(s){case 0:s=2
-return A.M(A.h_(A.d1("",0,null),B.b4),$async$pt)
+return A.M(A.h_(A.d1("https://raw.githubusercontent.com/alielbanna/portfolio/main/assets/Ali_ElBanna_Flutter_Developer.pdf",0,null),B.b4),$async$pt)
 case 2:if(!b&&q.c!=null)q.c.ak(t.Cu).f.MZ(A.aeG(null,null,null,B.aK,null,B.ag,null,A.bg("Could not open CV. Please contact me directly.",null,null,null,null),null,B.A_,null,null,null,null,null,null,null,null,null,null))
 return A.I(null,r)}})
 return A.J($async$pt,r)},
