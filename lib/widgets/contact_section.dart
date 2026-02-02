@@ -97,7 +97,7 @@ class ContactSection extends StatelessWidget {
               _buildContactCard(
                 icon: Icons.location_on,
                 title: 'Location',
-                value: 'Quwaysina, El Menoufia, Egypt',
+                value: 'El Menoufia, Egypt',
                 color: const Color(0xFFFF006E),
                 onTap: () {},
               ),
