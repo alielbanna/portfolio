@@ -95,7 +95,7 @@ class _HeroSectionState extends State<HeroSection>
 
   Future<void> _downloadCV() async {
     const cvUrl =
-        ''; // replace
+        'https://raw.githubusercontent.com/alielbanna/portfolio/main/assets/Ali_ElBanna_Flutter_Developer.pdf';
 
     final success = await launchUrl(
       Uri.parse(cvUrl),

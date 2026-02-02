@@ -25,5 +25,5 @@ flutter:
 
   uses-material-design: true
 
-#  assets:
-#    - assets/images/
+  assets:
+    - assets/Ali_ElBanna_Flutter_Developer.pdf
