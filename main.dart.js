@@ -61487,17 +61487,17 @@ case 2:s=5
 return A.M(A.h_(q,B.Bq),$async$nb)
 case 5:case 3:return A.I(null,r)}})
 return A.J($async$nb,r)},
-P(a){var s,r,q,p,o,n,m=this,l=null,k="alielbana6662@gmail.com",j="+20 112 993 7838",i="Location",h="Quwaysina, El Menoufia, Egypt",g=A.bD(a,l,t.w).w.a.a,f=g<600,e=g>=600&&g<1024
-g=f?24:80
-if(f)s=32
-else s=e?40:48
+P(a){var s,r,q,p,o,n,m=this,l=null,k="alielbana6662@gmail.com",j="+20 112 993 7838",i="Location",h=A.bD(a,l,t.w).w.a.a,g=h<600,f=h>=600&&h<1024
+h=g?24:80
+if(g)s=32
+else s=f?40:48
 s=A.vf(A.bg("Get In Touch",l,l,A.bn(l,l,B.f,l,l,l,l,l,l,l,l,s,l,l,B.a_,l,l,!0,l,l,l,l,l,l,l,l),l),new A.Ow())
 r=A.bg("I'm currently available for freelance work and full-time opportunities",l,l,A.bn(l,l,A.aD(180,B.f.A()>>>16&255,B.f.A()>>>8&255,B.f.A()&255),l,l,l,l,l,l,l,l,18,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),l)
 q=t.p
-p=f?A.d8(A.c([m.kU(B.t,B.eq,new A.Ox(m),"Email",k),B.vF,m.kU(B.c7,B.hH,new A.Oy(m),"Phone",j),B.vF,m.kU(B.aK,B.hG,new A.Oz(),i,h)],q),B.N,B.E):A.eI(A.c([A.ib(m.kU(B.t,B.eq,new A.OA(m),"Email",k)),B.vE,A.ib(m.kU(B.c7,B.hH,new A.OB(m),"Phone",j)),B.vE,A.ib(m.kU(B.aK,B.hG,new A.OC(),i,h))],q),B.N,B.E,B.ao,0)
+p=g?A.d8(A.c([m.kU(B.t,B.eq,new A.Ox(m),"Email",k),B.vF,m.kU(B.c7,B.hH,new A.Oy(m),"Phone",j),B.vF,m.kU(B.aK,B.hG,new A.Oz(),i,"El Menoufia, Egypt")],q),B.N,B.E):A.eI(A.c([A.ib(m.kU(B.t,B.eq,new A.OA(m),"Email",k)),B.vE,A.ib(m.kU(B.c7,B.hH,new A.OB(m),"Phone",j)),B.vE,A.ib(m.kU(B.aK,B.hG,new A.OC(),i,"Quwaysina, El Menoufia, Egypt"))],q),B.N,B.E,B.ao,0)
 o=A.bV(24)
 n=A.c([new A.dv(5,B.bn,A.aD(50,B.t.A()>>>16&255,B.t.A()>>>8&255,B.t.A()&255),B.j,30)],t.V)
-return A.bs(l,A.d8(A.c([s,B.bu,r,B.fa,p,B.fa,A.O2(A.bs(l,A.d8(A.c([B.Nx,B.bu,A.bg("I'm always interested in hearing about new projects and opportunities",l,l,A.bn(l,l,A.aD(180,B.aL.A()>>>16&255,B.aL.A()>>>8&255,B.aL.A()&255),l,l,l,l,l,l,l,l,16,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),B.aV),B.vH,A.fR(B.ff,A.c([m.Ct(B.l,B.d3,"GitHub","https://github.com/alielbanna"),m.Ct(B.yz,B.er,"LinkedIn","https://linkedin.com/in/ali-elbanna")],q),12,16)],q),B.N,B.E),B.q,l,new A.b7(l,l,l,o,n,B.ex,B.C),l,l,l,l,B.kv,l,l,1/0),l,l)],q),B.U,B.E),B.q,l,l,l,l,l,l,new A.au(g,100,g,100),l,l,l)},
+return A.bs(l,A.d8(A.c([s,B.bu,r,B.fa,p,B.fa,A.O2(A.bs(l,A.d8(A.c([B.Nx,B.bu,A.bg("I'm always interested in hearing about new projects and opportunities",l,l,A.bn(l,l,A.aD(180,B.aL.A()>>>16&255,B.aL.A()>>>8&255,B.aL.A()&255),l,l,l,l,l,l,l,l,16,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),B.aV),B.vH,A.fR(B.ff,A.c([m.Ct(B.l,B.d3,"GitHub","https://github.com/alielbanna"),m.Ct(B.yz,B.er,"LinkedIn","https://linkedin.com/in/ali-elbanna")],q),12,16)],q),B.N,B.E),B.q,l,new A.b7(l,l,l,o,n,B.ex,B.C),l,l,l,l,B.kv,l,l,1/0),l,l)],q),B.U,B.E),B.q,l,l,l,l,l,l,new A.au(h,100,h,100),l,l,l)},
 kU(a,b,c,d,e){var s=null,r=A.aD(150,B.a7.A()>>>16&255,B.a7.A()>>>8&255,B.a7.A()&255),q=A.bV(20),p=A.fp(A.aD(70,a.A()>>>16&255,a.A()>>>8&255,a.A()&255),1),o=A.aD(50,a.A()>>>16&255,a.A()>>>8&255,a.A()&255)
 return A.eb(A.jm(s,A.bs(s,A.d8(A.c([A.bs(s,A.f0(b,a,s,32),B.q,s,new A.b7(o,s,s,s,s,s,B.bx),s,s,s,s,B.Ah,s,s,s),B.bu,A.bg(d,s,s,A.bn(s,s,A.aD(150,B.f.A()>>>16&255,B.f.A()>>>8&255,B.f.A()&255),s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s),B.vJ,A.bg(e,s,s,B.LA,B.aV)],t.p),B.N,B.E),B.q,s,new A.b7(r,s,p,q,s,s,B.C),s,s,s,s,B.h6,s,s,s),B.ab,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,c,s,s,s,s,s,s),B.aR,s,s,s)},
 Ct(a,b,c,d){var s=null,r=A.bV(20)
@@ -61575,7 +61575,7 @@ p=o?24:80
 if(o)s=32
 else s=n?40:48
 r=t.s
-return A.bs(q,A.d8(A.c([A.vf(A.bg("Experience",q,q,A.bn(q,q,B.f,q,q,q,q,q,q,q,q,s,q,q,B.a_,q,q,!0,q,q,q,q,q,q,q,q),q),new A.Qk()),B.fa,this.Cr(B.t,"Hash Studio",A.c(["Developed and maintained 5 cross-platform mobile applications achieving 99.5% crash-free rate","Implemented Clean Architecture principles reducing code complexity by 40%","Optimized application performance reducing app load time by 35%","Mentored junior developer and established team coding standards reducing bug reports by 30%","Integrated Firebase services for real-time data synchronization and authentication"],r),B.kL,o,"Shebin El Kom, El Menoufia","August 2023 \u2013 August 2025","Flutter Developer"),B.vH,this.Cr(B.c7,"Self-Employed",A.c(["Deliver end-to-end mobile application solutions for clients across sports, healthcare, and finance industries","Lead development teams of 3-5 developers, coordinating sprint planning and code reviews","Published multiple applications on Google Play Store with 4.5+ average rating","Architect scalable applications using Clean Architecture with MVVM pattern","100% client satisfaction across 4+ completed projects"],r),B.kN,o,"Remote","September 2025 \u2013 Present","Freelance Flutter Developer")],t.p),B.U,B.E),B.q,q,q,q,q,q,q,new A.au(p,100,p,100),q,q,q)},
+return A.bs(q,A.d8(A.c([A.vf(A.bg("Experience",q,q,A.bn(q,q,B.f,q,q,q,q,q,q,q,q,s,q,q,B.a_,q,q,!0,q,q,q,q,q,q,q,q),q),new A.Qk()),B.fa,this.Cr(B.t,"Hash Studio",A.c(["Developed and maintained 5 cross-platform mobile applications","Implemented Clean Architecture principles reducing code complexity","Optimized application performance reducing app load time","Mentored junior developer and established team coding standards reducing bug reports","Integrated Firebase services for real-time data synchronization and authentication"],r),B.kL,o,"Shebin El Kom, El Menoufia","August 2023 \u2013 August 2025","Flutter Developer"),B.vH,this.Cr(B.c7,"Self-Employed",A.c(["Deliver end-to-end mobile application solutions for clients across sports, healthcare, and finance industries","Published application on Google Play Store","Architect scalable applications using Clean Architecture with MVVM pattern","100% client satisfaction"],r),B.kN,o,"Remote","May 2023 \u2013 August 2023","Freelance Flutter Developer")],t.p),B.U,B.E),B.q,q,q,q,q,q,q,new A.au(p,100,p,100),q,q,q)},
 Cr(a,b,c,d,e,f,g,h){var s,r,q=null,p=e?24:32,o=A.aD(150,B.a7.A()>>>16&255,B.a7.A()>>>8&255,B.a7.A()&255),n=A.bV(e?16:24),m=A.fp(A.aD(70,a.A()>>>16&255,a.A()>>>8&255,a.A()&255),1),l=A.aD(50,a.A()>>>16&255,a.A()>>>8&255,a.A()&255),k=A.bV(12)
 k=A.bs(q,A.f0(d,a,q,24),B.q,q,new A.b7(l,q,q,k,q,q,B.C),q,q,q,q,B.h5,q,q,q)
 l=A.bV(6)
